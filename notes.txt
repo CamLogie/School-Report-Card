@@ -1,0 +1,14 @@
+school reports company 
+
+  - help teachers to find how they do on tests
+  - string of comma separated values with tests results from schools, would like to build a simple report on top 
+  - feel free to ask any 
+  only dealing with one batch of tests at a time - one school at a time only getting grades
+  - green grades, amber grades and red grades 
+  - count the total number of grades - for each category 
+  - If there is anything otehr than a category - count as non-grade - counted as uncounted 
+  - Grades will not be case sensitive - output should have correct capitalization
+  - New line for each grade categorization
+  - Handle the case of empty strings - comma or whitespace -> return no results given
+  - provide an entire library
+  - input is a string, output is string on each line 
