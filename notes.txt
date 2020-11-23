@@ -12,3 +12,17 @@ school reports company
   - Handle the case of empty strings - comma or whitespace -> return no results given
   - provide an entire library
   - input is a string, output is string on each line 
+
+
+  class -> report 
+
+  initialize with string input 
+
+  methods: 
+
+ -  put string input into array 
+ -  iterate through the array 
+  - if empty string or just comma return no results given - test
+  -counter that puts each category in a hash and increases the count for each one - test for behaviour when given string
+- Hash iterated through and return each category with value on new line
+   
